@@ -1,0 +1,4328 @@
+Sun rays
+0.000000
+volcano rays
+0.000000
+moon rays
+0.000000
+weather rays
+0.000000
+cycles rays
+0.000000
+light rays
+0.000000
+rays rays
+1.000000
+Sun light
+0.000000
+volcano light
+0.000000
+moon light
+0.000000
+weather light
+0.000000
+cycles light
+0.000000
+light light
+1.000000
+rays light
+1.000000
+Sun cycles
+0.000000
+volcano cycles
+0.000000
+moon cycles
+0.000000
+weather cycles
+0.000000
+cycles cycles
+1.000000
+light cycles
+1.000000
+rays cycles
+1.000000
+Sun weather
+0.000000
+volcano weather
+0.000000
+moon weather
+0.000000
+weather weather
+1.000000
+cycles weather
+1.000000
+light weather
+1.000000
+rays weather
+1.000000
+Sun moon
+0.000000
+volcano moon
+0.000000
+moon moon
+1.000000
+weather moon
+1.000000
+cycles moon
+1.000000
+light moon
+1.000000
+rays moon
+1.000000
+Sun volcano
+0.000000
+volcano volcano
+1.000000
+moon volcano
+1.000000
+weather volcano
+1.000000
+cycles volcano
+1.000000
+light volcano
+1.000000
+rays volcano
+1.000000
+Sun Sun
+1.000000
+volcano sun
+1.000000
+moon sun
+1.000000
+weather sun
+1.000000
+cycles sun
+1.000000
+light sun
+1.000000
+rays sun
+1.000000
+Mars design.
+0.000000
+revealed design
+0.000000
+color design
+0.000000
+changes design
+0.000000
+surface design
+0.000000
+attributed design
+0.000000
+to design
+0.000000
+seasonal design
+0.000000
+vegetation design
+0.000000
+linear design
+0.000000
+features design
+0.000000
+were design
+0.000000
+ascribed design
+0.000000
+to design
+0.000000
+intelligent design
+0.000000
+design. design
+1.000000
+Mars intelligent
+0.000000
+revealed intelligent
+0.000000
+color intelligent
+0.000000
+changes intelligent
+0.000000
+surface intelligent
+0.000000
+attributed intelligent
+0.000000
+to intelligent
+0.000000
+seasonal intelligent
+0.000000
+vegetation intelligent
+0.000000
+linear intelligent
+0.000000
+features intelligent
+0.000000
+were intelligent
+0.000000
+ascribed intelligent
+0.000000
+to intelligent
+0.000000
+intelligent intelligent
+1.000000
+design. intelligent
+1.000000
+Mars to
+0.000000
+revealed to
+0.000000
+color to
+0.000000
+changes to
+0.000000
+surface to
+0.000000
+attributed to
+0.000000
+to to
+1.000000
+seasonal to
+1.000000
+vegetation to
+1.000000
+linear to
+1.000000
+features to
+1.000000
+were to
+1.000000
+ascribed to
+1.000000
+to to
+2.000000
+intelligent to
+2.000000
+design. to
+2.000000
+Mars ascribed
+0.000000
+revealed ascribed
+0.000000
+color ascribed
+0.000000
+changes ascribed
+0.000000
+surface ascribed
+0.000000
+attributed ascribed
+0.000000
+to ascribed
+0.000000
+seasonal ascribed
+0.000000
+vegetation ascribed
+0.000000
+linear ascribed
+0.000000
+features ascribed
+0.000000
+were ascribed
+0.000000
+ascribed ascribed
+1.000000
+to ascribed
+1.000000
+intelligent ascribed
+1.000000
+design. ascribed
+1.000000
+Mars were
+0.000000
+revealed were
+0.000000
+color were
+0.000000
+changes were
+0.000000
+surface were
+0.000000
+attributed were
+0.000000
+to were
+0.000000
+seasonal were
+0.000000
+vegetation were
+0.000000
+linear were
+0.000000
+features were
+0.000000
+were were
+1.000000
+ascribed were
+1.000000
+to were
+1.000000
+intelligent were
+1.000000
+design. were
+1.000000
+Mars features
+0.000000
+revealed features
+0.000000
+color features
+0.000000
+changes features
+0.000000
+surface features
+0.000000
+attributed features
+0.000000
+to features
+0.000000
+seasonal features
+0.000000
+vegetation features
+0.000000
+linear features
+0.000000
+features features
+1.000000
+were features
+1.000000
+ascribed features
+1.000000
+to features
+1.000000
+intelligent features
+1.000000
+design. features
+1.000000
+Mars linear
+0.000000
+revealed linear
+0.000000
+color linear
+0.000000
+changes linear
+0.000000
+surface linear
+0.000000
+attributed linear
+0.000000
+to linear
+0.000000
+seasonal linear
+0.000000
+vegetation linear
+0.000000
+linear linear
+1.000000
+features linear
+1.000000
+were linear
+1.000000
+ascribed linear
+1.000000
+to linear
+1.000000
+intelligent linear
+1.000000
+design. linear
+1.000000
+Mars vegetation
+0.000000
+revealed vegetation
+0.000000
+color vegetation
+0.000000
+changes vegetation
+0.000000
+surface vegetation
+0.000000
+attributed vegetation
+0.000000
+to vegetation
+0.000000
+seasonal vegetation
+0.000000
+vegetation vegetation
+1.000000
+linear vegetation
+1.000000
+features vegetation
+1.000000
+were vegetation
+1.000000
+ascribed vegetation
+1.000000
+to vegetation
+1.000000
+intelligent vegetation
+1.000000
+design. vegetation
+1.000000
+Mars seasonal
+0.000000
+revealed seasonal
+0.000000
+color seasonal
+0.000000
+changes seasonal
+0.000000
+surface seasonal
+0.000000
+attributed seasonal
+0.000000
+to seasonal
+0.000000
+seasonal seasonal
+1.000000
+vegetation seasonal
+1.000000
+linear seasonal
+1.000000
+features seasonal
+1.000000
+were seasonal
+1.000000
+ascribed seasonal
+1.000000
+to seasonal
+1.000000
+intelligent seasonal
+1.000000
+design. seasonal
+1.000000
+Mars to
+0.000000
+revealed to
+0.000000
+color to
+0.000000
+changes to
+0.000000
+surface to
+0.000000
+attributed to
+0.000000
+to to
+1.000000
+seasonal to
+1.000000
+vegetation to
+1.000000
+linear to
+1.000000
+features to
+1.000000
+were to
+1.000000
+ascribed to
+1.000000
+to to
+2.000000
+intelligent to
+2.000000
+design. to
+2.000000
+Mars attributed
+0.000000
+revealed attributed
+0.000000
+color attributed
+0.000000
+changes attributed
+0.000000
+surface attributed
+0.000000
+attributed attributed
+1.000000
+to attributed
+1.000000
+seasonal attributed
+1.000000
+vegetation attributed
+1.000000
+linear attributed
+1.000000
+features attributed
+1.000000
+were attributed
+1.000000
+ascribed attributed
+1.000000
+to attributed
+1.000000
+intelligent attributed
+1.000000
+design. attributed
+1.000000
+Mars surface
+0.000000
+revealed surface
+0.000000
+color surface
+0.000000
+changes surface
+0.000000
+surface surface
+1.000000
+attributed surface
+1.000000
+to surface
+1.000000
+seasonal surface
+1.000000
+vegetation surface
+1.000000
+linear surface
+1.000000
+features surface
+1.000000
+were surface
+1.000000
+ascribed surface
+1.000000
+to surface
+1.000000
+intelligent surface
+1.000000
+design. surface
+1.000000
+Mars changes
+0.000000
+revealed changes
+0.000000
+color changes
+0.000000
+changes changes
+1.000000
+surface changes
+1.000000
+attributed changes
+1.000000
+to changes
+1.000000
+seasonal changes
+1.000000
+vegetation changes
+1.000000
+linear changes
+1.000000
+features changes
+1.000000
+were changes
+1.000000
+ascribed changes
+1.000000
+to changes
+1.000000
+intelligent changes
+1.000000
+design. changes
+1.000000
+Mars color
+0.000000
+revealed color
+0.000000
+color color
+1.000000
+changes color
+1.000000
+surface color
+1.000000
+attributed color
+1.000000
+to color
+1.000000
+seasonal color
+1.000000
+vegetation color
+1.000000
+linear color
+1.000000
+features color
+1.000000
+were color
+1.000000
+ascribed color
+1.000000
+to color
+1.000000
+intelligent color
+1.000000
+design. color
+1.000000
+Mars revealed
+0.000000
+revealed revealed
+1.000000
+color revealed
+1.000000
+changes revealed
+1.000000
+surface revealed
+1.000000
+attributed revealed
+1.000000
+to revealed
+1.000000
+seasonal revealed
+1.000000
+vegetation revealed
+1.000000
+linear revealed
+1.000000
+features revealed
+1.000000
+were revealed
+1.000000
+ascribed revealed
+1.000000
+to revealed
+1.000000
+intelligent revealed
+1.000000
+design. revealed
+1.000000
+Mars Mars
+1.000000
+revealed mars
+1.000000
+color mars
+1.000000
+changes mars
+1.000000
+surface mars
+1.000000
+attributed mars
+1.000000
+to mars
+1.000000
+seasonal mars
+1.000000
+vegetation mars
+1.000000
+linear mars
+1.000000
+features mars
+1.000000
+were mars
+1.000000
+ascribed mars
+1.000000
+to mars
+1.000000
+intelligent mars
+1.000000
+design. mars
+1.000000
+Mars Mars
+1.000000
+Sun mars
+1.000000
+Pluto mars
+1.000000
+Moon mars
+1.000000
+circle mars
+1.000000
+seasonal mars
+1.000000
+winds mars
+1.000000
+circle mars
+1.000000
+Mars mars
+2.000000
+Mars circle
+0.000000
+Sun circle
+0.000000
+Pluto circle
+0.000000
+Moon circle
+0.000000
+circle circle
+1.000000
+seasonal circle
+1.000000
+winds circle
+1.000000
+circle circle
+2.000000
+Mars circle
+2.000000
+Mars winds
+0.000000
+Sun winds
+0.000000
+Pluto winds
+0.000000
+Moon winds
+0.000000
+circle winds
+0.000000
+seasonal winds
+0.000000
+winds winds
+1.000000
+circle winds
+1.000000
+Mars winds
+1.000000
+Mars seasonal
+0.000000
+Sun seasonal
+0.000000
+Pluto seasonal
+0.000000
+Moon seasonal
+0.000000
+circle seasonal
+0.000000
+seasonal seasonal
+1.000000
+winds seasonal
+1.000000
+circle seasonal
+1.000000
+Mars seasonal
+1.000000
+Mars circle
+0.000000
+Sun circle
+0.000000
+Pluto circle
+0.000000
+Moon circle
+0.000000
+circle circle
+1.000000
+seasonal circle
+1.000000
+winds circle
+1.000000
+circle circle
+2.000000
+Mars circle
+2.000000
+Mars Moon
+0.000000
+Sun moon
+0.000000
+Pluto moon
+0.000000
+Moon moon
+1.000000
+circle moon
+1.000000
+seasonal moon
+1.000000
+winds moon
+1.000000
+circle moon
+1.000000
+Mars moon
+1.000000
+Mars Pluto
+0.000000
+Sun pluto
+0.000000
+Pluto pluto
+1.000000
+Moon pluto
+1.000000
+circle pluto
+1.000000
+seasonal pluto
+1.000000
+winds pluto
+1.000000
+circle pluto
+1.000000
+Mars pluto
+1.000000
+Mars Sun
+0.000000
+Sun sun
+1.000000
+Pluto sun
+1.000000
+Moon sun
+1.000000
+circle sun
+1.000000
+seasonal sun
+1.000000
+winds sun
+1.000000
+circle sun
+1.000000
+Mars sun
+1.000000
+Mars Mars
+1.000000
+Sun mars
+1.000000
+Pluto mars
+1.000000
+Moon mars
+1.000000
+circle mars
+1.000000
+seasonal mars
+1.000000
+winds mars
+1.000000
+circle mars
+1.000000
+Mars mars
+2.000000
+Sun rays
+0.000000
+Jupitor rays
+0.000000
+Sun rays
+0.000000
+Pluto rays
+0.000000
+Moon rays
+0.000000
+Sun rays
+0.000000
+small rays
+0.000000
+circle rays
+0.000000
+high rays
+0.000000
+winds rays
+0.000000
+circle rays
+0.000000
+Mars rays
+0.000000
+moons rays
+0.000000
+waves rays
+0.000000
+volcano rays
+0.000000
+sun rays
+0.000000
+light rays
+0.000000
+rays rays
+1.000000
+Sun light
+0.000000
+Jupitor light
+0.000000
+Sun light
+0.000000
+Pluto light
+0.000000
+Moon light
+0.000000
+Sun light
+0.000000
+small light
+0.000000
+circle light
+0.000000
+high light
+0.000000
+winds light
+0.000000
+circle light
+0.000000
+Mars light
+0.000000
+moons light
+0.000000
+waves light
+0.000000
+volcano light
+0.000000
+sun light
+0.000000
+light light
+1.000000
+rays light
+1.000000
+Sun sun
+1.000000
+Jupitor sun
+1.000000
+Sun sun
+2.000000
+Pluto sun
+2.000000
+Moon sun
+2.000000
+Sun sun
+3.000000
+small sun
+3.000000
+circle sun
+3.000000
+high sun
+3.000000
+winds sun
+3.000000
+circle sun
+3.000000
+Mars sun
+3.000000
+moons sun
+3.000000
+waves sun
+3.000000
+volcano sun
+3.000000
+sun sun
+4.000000
+light sun
+4.000000
+rays sun
+4.000000
+Sun volcano
+0.000000
+Jupitor volcano
+0.000000
+Sun volcano
+0.000000
+Pluto volcano
+0.000000
+Moon volcano
+0.000000
+Sun volcano
+0.000000
+small volcano
+0.000000
+circle volcano
+0.000000
+high volcano
+0.000000
+winds volcano
+0.000000
+circle volcano
+0.000000
+Mars volcano
+0.000000
+moons volcano
+0.000000
+waves volcano
+0.000000
+volcano volcano
+1.000000
+sun volcano
+1.000000
+light volcano
+1.000000
+rays volcano
+1.000000
+Sun waves
+0.000000
+Jupitor waves
+0.000000
+Sun waves
+0.000000
+Pluto waves
+0.000000
+Moon waves
+0.000000
+Sun waves
+0.000000
+small waves
+0.000000
+circle waves
+0.000000
+high waves
+0.000000
+winds waves
+0.000000
+circle waves
+0.000000
+Mars waves
+0.000000
+moons waves
+0.000000
+waves waves
+1.000000
+volcano waves
+1.000000
+sun waves
+1.000000
+light waves
+1.000000
+rays waves
+1.000000
+Sun moons
+0.000000
+Jupitor moons
+0.000000
+Sun moons
+0.000000
+Pluto moons
+0.000000
+Moon moons
+0.000000
+Sun moons
+0.000000
+small moons
+0.000000
+circle moons
+0.000000
+high moons
+0.000000
+winds moons
+0.000000
+circle moons
+0.000000
+Mars moons
+0.000000
+moons moons
+1.000000
+waves moons
+1.000000
+volcano moons
+1.000000
+sun moons
+1.000000
+light moons
+1.000000
+rays moons
+1.000000
+Sun Mars
+0.000000
+Jupitor mars
+0.000000
+Sun mars
+0.000000
+Pluto mars
+0.000000
+Moon mars
+0.000000
+Sun mars
+0.000000
+small mars
+0.000000
+circle mars
+0.000000
+high mars
+0.000000
+winds mars
+0.000000
+circle mars
+0.000000
+Mars mars
+1.000000
+moons mars
+1.000000
+waves mars
+1.000000
+volcano mars
+1.000000
+sun mars
+1.000000
+light mars
+1.000000
+rays mars
+1.000000
+Sun circle
+0.000000
+Jupitor circle
+0.000000
+Sun circle
+0.000000
+Pluto circle
+0.000000
+Moon circle
+0.000000
+Sun circle
+0.000000
+small circle
+0.000000
+circle circle
+1.000000
+high circle
+1.000000
+winds circle
+1.000000
+circle circle
+2.000000
+Mars circle
+2.000000
+moons circle
+2.000000
+waves circle
+2.000000
+volcano circle
+2.000000
+sun circle
+2.000000
+light circle
+2.000000
+rays circle
+2.000000
+Sun winds
+0.000000
+Jupitor winds
+0.000000
+Sun winds
+0.000000
+Pluto winds
+0.000000
+Moon winds
+0.000000
+Sun winds
+0.000000
+small winds
+0.000000
+circle winds
+0.000000
+high winds
+0.000000
+winds winds
+1.000000
+circle winds
+1.000000
+Mars winds
+1.000000
+moons winds
+1.000000
+waves winds
+1.000000
+volcano winds
+1.000000
+sun winds
+1.000000
+light winds
+1.000000
+rays winds
+1.000000
+Sun high
+0.000000
+Jupitor high
+0.000000
+Sun high
+0.000000
+Pluto high
+0.000000
+Moon high
+0.000000
+Sun high
+0.000000
+small high
+0.000000
+circle high
+0.000000
+high high
+1.000000
+winds high
+1.000000
+circle high
+1.000000
+Mars high
+1.000000
+moons high
+1.000000
+waves high
+1.000000
+volcano high
+1.000000
+sun high
+1.000000
+light high
+1.000000
+rays high
+1.000000
+Sun circle
+0.000000
+Jupitor circle
+0.000000
+Sun circle
+0.000000
+Pluto circle
+0.000000
+Moon circle
+0.000000
+Sun circle
+0.000000
+small circle
+0.000000
+circle circle
+1.000000
+high circle
+1.000000
+winds circle
+1.000000
+circle circle
+2.000000
+Mars circle
+2.000000
+moons circle
+2.000000
+waves circle
+2.000000
+volcano circle
+2.000000
+sun circle
+2.000000
+light circle
+2.000000
+rays circle
+2.000000
+Sun small
+0.000000
+Jupitor small
+0.000000
+Sun small
+0.000000
+Pluto small
+0.000000
+Moon small
+0.000000
+Sun small
+0.000000
+small small
+1.000000
+circle small
+1.000000
+high small
+1.000000
+winds small
+1.000000
+circle small
+1.000000
+Mars small
+1.000000
+moons small
+1.000000
+waves small
+1.000000
+volcano small
+1.000000
+sun small
+1.000000
+light small
+1.000000
+rays small
+1.000000
+Sun Sun
+1.000000
+Jupitor sun
+1.000000
+Sun sun
+2.000000
+Pluto sun
+2.000000
+Moon sun
+2.000000
+Sun sun
+3.000000
+small sun
+3.000000
+circle sun
+3.000000
+high sun
+3.000000
+winds sun
+3.000000
+circle sun
+3.000000
+Mars sun
+3.000000
+moons sun
+3.000000
+waves sun
+3.000000
+volcano sun
+3.000000
+sun sun
+4.000000
+light sun
+4.000000
+rays sun
+4.000000
+Sun Moon
+0.000000
+Jupitor moon
+0.000000
+Sun moon
+0.000000
+Pluto moon
+0.000000
+Moon moon
+1.000000
+Sun moon
+1.000000
+small moon
+1.000000
+circle moon
+1.000000
+high moon
+1.000000
+winds moon
+1.000000
+circle moon
+1.000000
+Mars moon
+1.000000
+moons moon
+1.000000
+waves moon
+1.000000
+volcano moon
+1.000000
+sun moon
+1.000000
+light moon
+1.000000
+rays moon
+1.000000
+Sun Pluto
+0.000000
+Jupitor pluto
+0.000000
+Sun pluto
+0.000000
+Pluto pluto
+1.000000
+Moon pluto
+1.000000
+Sun pluto
+1.000000
+small pluto
+1.000000
+circle pluto
+1.000000
+high pluto
+1.000000
+winds pluto
+1.000000
+circle pluto
+1.000000
+Mars pluto
+1.000000
+moons pluto
+1.000000
+waves pluto
+1.000000
+volcano pluto
+1.000000
+sun pluto
+1.000000
+light pluto
+1.000000
+rays pluto
+1.000000
+Sun Sun
+1.000000
+Jupitor sun
+1.000000
+Sun sun
+2.000000
+Pluto sun
+2.000000
+Moon sun
+2.000000
+Sun sun
+3.000000
+small sun
+3.000000
+circle sun
+3.000000
+high sun
+3.000000
+winds sun
+3.000000
+circle sun
+3.000000
+Mars sun
+3.000000
+moons sun
+3.000000
+waves sun
+3.000000
+volcano sun
+3.000000
+sun sun
+4.000000
+light sun
+4.000000
+rays sun
+4.000000
+Sun Jupitor
+0.000000
+Jupitor jupitor
+1.000000
+Sun jupitor
+1.000000
+Pluto jupitor
+1.000000
+Moon jupitor
+1.000000
+Sun jupitor
+1.000000
+small jupitor
+1.000000
+circle jupitor
+1.000000
+high jupitor
+1.000000
+winds jupitor
+1.000000
+circle jupitor
+1.000000
+Mars jupitor
+1.000000
+moons jupitor
+1.000000
+waves jupitor
+1.000000
+volcano jupitor
+1.000000
+sun jupitor
+1.000000
+light jupitor
+1.000000
+rays jupitor
+1.000000
+Sun Sun
+1.000000
+Jupitor sun
+1.000000
+Sun sun
+2.000000
+Pluto sun
+2.000000
+Moon sun
+2.000000
+Sun sun
+3.000000
+small sun
+3.000000
+circle sun
+3.000000
+high sun
+3.000000
+winds sun
+3.000000
+circle sun
+3.000000
+Mars sun
+3.000000
+moons sun
+3.000000
+waves sun
+3.000000
+volcano sun
+3.000000
+sun sun
+4.000000
+light sun
+4.000000
+rays sun
+4.000000
+Mars design.
+0.000000
+has design
+0.000000
+long design
+0.000000
+been design
+0.000000
+the design
+0.000000
+subject design
+0.000000
+of design
+0.000000
+human design
+0.000000
+interest. design
+0.000000
+Early design
+0.000000
+telescopic design
+0.000000
+observations design
+0.000000
+revealed design
+0.000000
+color design
+0.000000
+changes design
+0.000000
+on design
+0.000000
+the design
+0.000000
+surface design
+0.000000
+that design
+0.000000
+were design
+0.000000
+attributed design
+0.000000
+to design
+0.000000
+seasonal design
+0.000000
+vegetation design
+0.000000
+and design
+0.000000
+apparent design
+0.000000
+linear design
+0.000000
+features design
+0.000000
+were design
+0.000000
+ascribed design
+0.000000
+to design
+0.000000
+intelligent design
+0.000000
+design. design
+1.000000
+Mars intelligent
+0.000000
+has intelligent
+0.000000
+long intelligent
+0.000000
+been intelligent
+0.000000
+the intelligent
+0.000000
+subject intelligent
+0.000000
+of intelligent
+0.000000
+human intelligent
+0.000000
+interest. intelligent
+0.000000
+Early intelligent
+0.000000
+telescopic intelligent
+0.000000
+observations intelligent
+0.000000
+revealed intelligent
+0.000000
+color intelligent
+0.000000
+changes intelligent
+0.000000
+on intelligent
+0.000000
+the intelligent
+0.000000
+surface intelligent
+0.000000
+that intelligent
+0.000000
+were intelligent
+0.000000
+attributed intelligent
+0.000000
+to intelligent
+0.000000
+seasonal intelligent
+0.000000
+vegetation intelligent
+0.000000
+and intelligent
+0.000000
+apparent intelligent
+0.000000
+linear intelligent
+0.000000
+features intelligent
+0.000000
+were intelligent
+0.000000
+ascribed intelligent
+0.000000
+to intelligent
+0.000000
+intelligent intelligent
+1.000000
+design. intelligent
+1.000000
+Mars to
+0.000000
+has to
+0.000000
+long to
+0.000000
+been to
+0.000000
+the to
+0.000000
+subject to
+0.000000
+of to
+0.000000
+human to
+0.000000
+interest. to
+0.000000
+Early to
+0.000000
+telescopic to
+0.000000
+observations to
+0.000000
+revealed to
+0.000000
+color to
+0.000000
+changes to
+0.000000
+on to
+0.000000
+the to
+0.000000
+surface to
+0.000000
+that to
+0.000000
+were to
+0.000000
+attributed to
+0.000000
+to to
+1.000000
+seasonal to
+1.000000
+vegetation to
+1.000000
+and to
+1.000000
+apparent to
+1.000000
+linear to
+1.000000
+features to
+1.000000
+were to
+1.000000
+ascribed to
+1.000000
+to to
+2.000000
+intelligent to
+2.000000
+design. to
+2.000000
+Mars ascribed
+0.000000
+has ascribed
+0.000000
+long ascribed
+0.000000
+been ascribed
+0.000000
+the ascribed
+0.000000
+subject ascribed
+0.000000
+of ascribed
+0.000000
+human ascribed
+0.000000
+interest. ascribed
+0.000000
+Early ascribed
+0.000000
+telescopic ascribed
+0.000000
+observations ascribed
+0.000000
+revealed ascribed
+0.000000
+color ascribed
+0.000000
+changes ascribed
+0.000000
+on ascribed
+0.000000
+the ascribed
+0.000000
+surface ascribed
+0.000000
+that ascribed
+0.000000
+were ascribed
+0.000000
+attributed ascribed
+0.000000
+to ascribed
+0.000000
+seasonal ascribed
+0.000000
+vegetation ascribed
+0.000000
+and ascribed
+0.000000
+apparent ascribed
+0.000000
+linear ascribed
+0.000000
+features ascribed
+0.000000
+were ascribed
+0.000000
+ascribed ascribed
+1.000000
+to ascribed
+1.000000
+intelligent ascribed
+1.000000
+design. ascribed
+1.000000
+Mars were
+0.000000
+has were
+0.000000
+long were
+0.000000
+been were
+0.000000
+the were
+0.000000
+subject were
+0.000000
+of were
+0.000000
+human were
+0.000000
+interest. were
+0.000000
+Early were
+0.000000
+telescopic were
+0.000000
+observations were
+0.000000
+revealed were
+0.000000
+color were
+0.000000
+changes were
+0.000000
+on were
+0.000000
+the were
+0.000000
+surface were
+0.000000
+that were
+0.000000
+were were
+1.000000
+attributed were
+1.000000
+to were
+1.000000
+seasonal were
+1.000000
+vegetation were
+1.000000
+and were
+1.000000
+apparent were
+1.000000
+linear were
+1.000000
+features were
+1.000000
+were were
+2.000000
+ascribed were
+2.000000
+to were
+2.000000
+intelligent were
+2.000000
+design. were
+2.000000
+Mars features
+0.000000
+has features
+0.000000
+long features
+0.000000
+been features
+0.000000
+the features
+0.000000
+subject features
+0.000000
+of features
+0.000000
+human features
+0.000000
+interest. features
+0.000000
+Early features
+0.000000
+telescopic features
+0.000000
+observations features
+0.000000
+revealed features
+0.000000
+color features
+0.000000
+changes features
+0.000000
+on features
+0.000000
+the features
+0.000000
+surface features
+0.000000
+that features
+0.000000
+were features
+0.000000
+attributed features
+0.000000
+to features
+0.000000
+seasonal features
+0.000000
+vegetation features
+0.000000
+and features
+0.000000
+apparent features
+0.000000
+linear features
+0.000000
+features features
+1.000000
+were features
+1.000000
+ascribed features
+1.000000
+to features
+1.000000
+intelligent features
+1.000000
+design. features
+1.000000
+Mars linear
+0.000000
+has linear
+0.000000
+long linear
+0.000000
+been linear
+0.000000
+the linear
+0.000000
+subject linear
+0.000000
+of linear
+0.000000
+human linear
+0.000000
+interest. linear
+0.000000
+Early linear
+0.000000
+telescopic linear
+0.000000
+observations linear
+0.000000
+revealed linear
+0.000000
+color linear
+0.000000
+changes linear
+0.000000
+on linear
+0.000000
+the linear
+0.000000
+surface linear
+0.000000
+that linear
+0.000000
+were linear
+0.000000
+attributed linear
+0.000000
+to linear
+0.000000
+seasonal linear
+0.000000
+vegetation linear
+0.000000
+and linear
+0.000000
+apparent linear
+0.000000
+linear linear
+1.000000
+features linear
+1.000000
+were linear
+1.000000
+ascribed linear
+1.000000
+to linear
+1.000000
+intelligent linear
+1.000000
+design. linear
+1.000000
+Mars apparent
+0.000000
+has apparent
+0.000000
+long apparent
+0.000000
+been apparent
+0.000000
+the apparent
+0.000000
+subject apparent
+0.000000
+of apparent
+0.000000
+human apparent
+0.000000
+interest. apparent
+0.000000
+Early apparent
+0.000000
+telescopic apparent
+0.000000
+observations apparent
+0.000000
+revealed apparent
+0.000000
+color apparent
+0.000000
+changes apparent
+0.000000
+on apparent
+0.000000
+the apparent
+0.000000
+surface apparent
+0.000000
+that apparent
+0.000000
+were apparent
+0.000000
+attributed apparent
+0.000000
+to apparent
+0.000000
+seasonal apparent
+0.000000
+vegetation apparent
+0.000000
+and apparent
+0.000000
+apparent apparent
+1.000000
+linear apparent
+1.000000
+features apparent
+1.000000
+were apparent
+1.000000
+ascribed apparent
+1.000000
+to apparent
+1.000000
+intelligent apparent
+1.000000
+design. apparent
+1.000000
+Mars and
+0.000000
+has and
+0.000000
+long and
+0.000000
+been and
+0.000000
+the and
+0.000000
+subject and
+0.000000
+of and
+0.000000
+human and
+0.000000
+interest. and
+0.000000
+Early and
+0.000000
+telescopic and
+0.000000
+observations and
+0.000000
+revealed and
+0.000000
+color and
+0.000000
+changes and
+0.000000
+on and
+0.000000
+the and
+0.000000
+surface and
+0.000000
+that and
+0.000000
+were and
+0.000000
+attributed and
+0.000000
+to and
+0.000000
+seasonal and
+0.000000
+vegetation and
+0.000000
+and and
+1.000000
+apparent and
+1.000000
+linear and
+1.000000
+features and
+1.000000
+were and
+1.000000
+ascribed and
+1.000000
+to and
+1.000000
+intelligent and
+1.000000
+design. and
+1.000000
+Mars vegetation
+0.000000
+has vegetation
+0.000000
+long vegetation
+0.000000
+been vegetation
+0.000000
+the vegetation
+0.000000
+subject vegetation
+0.000000
+of vegetation
+0.000000
+human vegetation
+0.000000
+interest. vegetation
+0.000000
+Early vegetation
+0.000000
+telescopic vegetation
+0.000000
+observations vegetation
+0.000000
+revealed vegetation
+0.000000
+color vegetation
+0.000000
+changes vegetation
+0.000000
+on vegetation
+0.000000
+the vegetation
+0.000000
+surface vegetation
+0.000000
+that vegetation
+0.000000
+were vegetation
+0.000000
+attributed vegetation
+0.000000
+to vegetation
+0.000000
+seasonal vegetation
+0.000000
+vegetation vegetation
+1.000000
+and vegetation
+1.000000
+apparent vegetation
+1.000000
+linear vegetation
+1.000000
+features vegetation
+1.000000
+were vegetation
+1.000000
+ascribed vegetation
+1.000000
+to vegetation
+1.000000
+intelligent vegetation
+1.000000
+design. vegetation
+1.000000
+Mars seasonal
+0.000000
+has seasonal
+0.000000
+long seasonal
+0.000000
+been seasonal
+0.000000
+the seasonal
+0.000000
+subject seasonal
+0.000000
+of seasonal
+0.000000
+human seasonal
+0.000000
+interest. seasonal
+0.000000
+Early seasonal
+0.000000
+telescopic seasonal
+0.000000
+observations seasonal
+0.000000
+revealed seasonal
+0.000000
+color seasonal
+0.000000
+changes seasonal
+0.000000
+on seasonal
+0.000000
+the seasonal
+0.000000
+surface seasonal
+0.000000
+that seasonal
+0.000000
+were seasonal
+0.000000
+attributed seasonal
+0.000000
+to seasonal
+0.000000
+seasonal seasonal
+1.000000
+vegetation seasonal
+1.000000
+and seasonal
+1.000000
+apparent seasonal
+1.000000
+linear seasonal
+1.000000
+features seasonal
+1.000000
+were seasonal
+1.000000
+ascribed seasonal
+1.000000
+to seasonal
+1.000000
+intelligent seasonal
+1.000000
+design. seasonal
+1.000000
+Mars to
+0.000000
+has to
+0.000000
+long to
+0.000000
+been to
+0.000000
+the to
+0.000000
+subject to
+0.000000
+of to
+0.000000
+human to
+0.000000
+interest. to
+0.000000
+Early to
+0.000000
+telescopic to
+0.000000
+observations to
+0.000000
+revealed to
+0.000000
+color to
+0.000000
+changes to
+0.000000
+on to
+0.000000
+the to
+0.000000
+surface to
+0.000000
+that to
+0.000000
+were to
+0.000000
+attributed to
+0.000000
+to to
+1.000000
+seasonal to
+1.000000
+vegetation to
+1.000000
+and to
+1.000000
+apparent to
+1.000000
+linear to
+1.000000
+features to
+1.000000
+were to
+1.000000
+ascribed to
+1.000000
+to to
+2.000000
+intelligent to
+2.000000
+design. to
+2.000000
+Mars attributed
+0.000000
+has attributed
+0.000000
+long attributed
+0.000000
+been attributed
+0.000000
+the attributed
+0.000000
+subject attributed
+0.000000
+of attributed
+0.000000
+human attributed
+0.000000
+interest. attributed
+0.000000
+Early attributed
+0.000000
+telescopic attributed
+0.000000
+observations attributed
+0.000000
+revealed attributed
+0.000000
+color attributed
+0.000000
+changes attributed
+0.000000
+on attributed
+0.000000
+the attributed
+0.000000
+surface attributed
+0.000000
+that attributed
+0.000000
+were attributed
+0.000000
+attributed attributed
+1.000000
+to attributed
+1.000000
+seasonal attributed
+1.000000
+vegetation attributed
+1.000000
+and attributed
+1.000000
+apparent attributed
+1.000000
+linear attributed
+1.000000
+features attributed
+1.000000
+were attributed
+1.000000
+ascribed attributed
+1.000000
+to attributed
+1.000000
+intelligent attributed
+1.000000
+design. attributed
+1.000000
+Mars were
+0.000000
+has were
+0.000000
+long were
+0.000000
+been were
+0.000000
+the were
+0.000000
+subject were
+0.000000
+of were
+0.000000
+human were
+0.000000
+interest. were
+0.000000
+Early were
+0.000000
+telescopic were
+0.000000
+observations were
+0.000000
+revealed were
+0.000000
+color were
+0.000000
+changes were
+0.000000
+on were
+0.000000
+the were
+0.000000
+surface were
+0.000000
+that were
+0.000000
+were were
+1.000000
+attributed were
+1.000000
+to were
+1.000000
+seasonal were
+1.000000
+vegetation were
+1.000000
+and were
+1.000000
+apparent were
+1.000000
+linear were
+1.000000
+features were
+1.000000
+were were
+2.000000
+ascribed were
+2.000000
+to were
+2.000000
+intelligent were
+2.000000
+design. were
+2.000000
+Mars that
+0.000000
+has that
+0.000000
+long that
+0.000000
+been that
+0.000000
+the that
+0.000000
+subject that
+0.000000
+of that
+0.000000
+human that
+0.000000
+interest. that
+0.000000
+Early that
+0.000000
+telescopic that
+0.000000
+observations that
+0.000000
+revealed that
+0.000000
+color that
+0.000000
+changes that
+0.000000
+on that
+0.000000
+the that
+0.000000
+surface that
+0.000000
+that that
+1.000000
+were that
+1.000000
+attributed that
+1.000000
+to that
+1.000000
+seasonal that
+1.000000
+vegetation that
+1.000000
+and that
+1.000000
+apparent that
+1.000000
+linear that
+1.000000
+features that
+1.000000
+were that
+1.000000
+ascribed that
+1.000000
+to that
+1.000000
+intelligent that
+1.000000
+design. that
+1.000000
+Mars surface
+0.000000
+has surface
+0.000000
+long surface
+0.000000
+been surface
+0.000000
+the surface
+0.000000
+subject surface
+0.000000
+of surface
+0.000000
+human surface
+0.000000
+interest. surface
+0.000000
+Early surface
+0.000000
+telescopic surface
+0.000000
+observations surface
+0.000000
+revealed surface
+0.000000
+color surface
+0.000000
+changes surface
+0.000000
+on surface
+0.000000
+the surface
+0.000000
+surface surface
+1.000000
+that surface
+1.000000
+were surface
+1.000000
+attributed surface
+1.000000
+to surface
+1.000000
+seasonal surface
+1.000000
+vegetation surface
+1.000000
+and surface
+1.000000
+apparent surface
+1.000000
+linear surface
+1.000000
+features surface
+1.000000
+were surface
+1.000000
+ascribed surface
+1.000000
+to surface
+1.000000
+intelligent surface
+1.000000
+design. surface
+1.000000
+Mars the
+0.000000
+has the
+0.000000
+long the
+0.000000
+been the
+0.000000
+the the
+1.000000
+subject the
+1.000000
+of the
+1.000000
+human the
+1.000000
+interest. the
+1.000000
+Early the
+1.000000
+telescopic the
+1.000000
+observations the
+1.000000
+revealed the
+1.000000
+color the
+1.000000
+changes the
+1.000000
+on the
+1.000000
+the the
+2.000000
+surface the
+2.000000
+that the
+2.000000
+were the
+2.000000
+attributed the
+2.000000
+to the
+2.000000
+seasonal the
+2.000000
+vegetation the
+2.000000
+and the
+2.000000
+apparent the
+2.000000
+linear the
+2.000000
+features the
+2.000000
+were the
+2.000000
+ascribed the
+2.000000
+to the
+2.000000
+intelligent the
+2.000000
+design. the
+2.000000
+Mars on
+0.000000
+has on
+0.000000
+long on
+0.000000
+been on
+0.000000
+the on
+0.000000
+subject on
+0.000000
+of on
+0.000000
+human on
+0.000000
+interest. on
+0.000000
+Early on
+0.000000
+telescopic on
+0.000000
+observations on
+0.000000
+revealed on
+0.000000
+color on
+0.000000
+changes on
+0.000000
+on on
+1.000000
+the on
+1.000000
+surface on
+1.000000
+that on
+1.000000
+were on
+1.000000
+attributed on
+1.000000
+to on
+1.000000
+seasonal on
+1.000000
+vegetation on
+1.000000
+and on
+1.000000
+apparent on
+1.000000
+linear on
+1.000000
+features on
+1.000000
+were on
+1.000000
+ascribed on
+1.000000
+to on
+1.000000
+intelligent on
+1.000000
+design. on
+1.000000
+Mars changes
+0.000000
+has changes
+0.000000
+long changes
+0.000000
+been changes
+0.000000
+the changes
+0.000000
+subject changes
+0.000000
+of changes
+0.000000
+human changes
+0.000000
+interest. changes
+0.000000
+Early changes
+0.000000
+telescopic changes
+0.000000
+observations changes
+0.000000
+revealed changes
+0.000000
+color changes
+0.000000
+changes changes
+1.000000
+on changes
+1.000000
+the changes
+1.000000
+surface changes
+1.000000
+that changes
+1.000000
+were changes
+1.000000
+attributed changes
+1.000000
+to changes
+1.000000
+seasonal changes
+1.000000
+vegetation changes
+1.000000
+and changes
+1.000000
+apparent changes
+1.000000
+linear changes
+1.000000
+features changes
+1.000000
+were changes
+1.000000
+ascribed changes
+1.000000
+to changes
+1.000000
+intelligent changes
+1.000000
+design. changes
+1.000000
+Mars color
+0.000000
+has color
+0.000000
+long color
+0.000000
+been color
+0.000000
+the color
+0.000000
+subject color
+0.000000
+of color
+0.000000
+human color
+0.000000
+interest. color
+0.000000
+Early color
+0.000000
+telescopic color
+0.000000
+observations color
+0.000000
+revealed color
+0.000000
+color color
+1.000000
+changes color
+1.000000
+on color
+1.000000
+the color
+1.000000
+surface color
+1.000000
+that color
+1.000000
+were color
+1.000000
+attributed color
+1.000000
+to color
+1.000000
+seasonal color
+1.000000
+vegetation color
+1.000000
+and color
+1.000000
+apparent color
+1.000000
+linear color
+1.000000
+features color
+1.000000
+were color
+1.000000
+ascribed color
+1.000000
+to color
+1.000000
+intelligent color
+1.000000
+design. color
+1.000000
+Mars revealed
+0.000000
+has revealed
+0.000000
+long revealed
+0.000000
+been revealed
+0.000000
+the revealed
+0.000000
+subject revealed
+0.000000
+of revealed
+0.000000
+human revealed
+0.000000
+interest. revealed
+0.000000
+Early revealed
+0.000000
+telescopic revealed
+0.000000
+observations revealed
+0.000000
+revealed revealed
+1.000000
+color revealed
+1.000000
+changes revealed
+1.000000
+on revealed
+1.000000
+the revealed
+1.000000
+surface revealed
+1.000000
+that revealed
+1.000000
+were revealed
+1.000000
+attributed revealed
+1.000000
+to revealed
+1.000000
+seasonal revealed
+1.000000
+vegetation revealed
+1.000000
+and revealed
+1.000000
+apparent revealed
+1.000000
+linear revealed
+1.000000
+features revealed
+1.000000
+were revealed
+1.000000
+ascribed revealed
+1.000000
+to revealed
+1.000000
+intelligent revealed
+1.000000
+design. revealed
+1.000000
+Mars observations
+0.000000
+has observations
+0.000000
+long observations
+0.000000
+been observations
+0.000000
+the observations
+0.000000
+subject observations
+0.000000
+of observations
+0.000000
+human observations
+0.000000
+interest. observations
+0.000000
+Early observations
+0.000000
+telescopic observations
+0.000000
+observations observations
+1.000000
+revealed observations
+1.000000
+color observations
+1.000000
+changes observations
+1.000000
+on observations
+1.000000
+the observations
+1.000000
+surface observations
+1.000000
+that observations
+1.000000
+were observations
+1.000000
+attributed observations
+1.000000
+to observations
+1.000000
+seasonal observations
+1.000000
+vegetation observations
+1.000000
+and observations
+1.000000
+apparent observations
+1.000000
+linear observations
+1.000000
+features observations
+1.000000
+were observations
+1.000000
+ascribed observations
+1.000000
+to observations
+1.000000
+intelligent observations
+1.000000
+design. observations
+1.000000
+Mars telescopic
+0.000000
+has telescopic
+0.000000
+long telescopic
+0.000000
+been telescopic
+0.000000
+the telescopic
+0.000000
+subject telescopic
+0.000000
+of telescopic
+0.000000
+human telescopic
+0.000000
+interest. telescopic
+0.000000
+Early telescopic
+0.000000
+telescopic telescopic
+1.000000
+observations telescopic
+1.000000
+revealed telescopic
+1.000000
+color telescopic
+1.000000
+changes telescopic
+1.000000
+on telescopic
+1.000000
+the telescopic
+1.000000
+surface telescopic
+1.000000
+that telescopic
+1.000000
+were telescopic
+1.000000
+attributed telescopic
+1.000000
+to telescopic
+1.000000
+seasonal telescopic
+1.000000
+vegetation telescopic
+1.000000
+and telescopic
+1.000000
+apparent telescopic
+1.000000
+linear telescopic
+1.000000
+features telescopic
+1.000000
+were telescopic
+1.000000
+ascribed telescopic
+1.000000
+to telescopic
+1.000000
+intelligent telescopic
+1.000000
+design. telescopic
+1.000000
+Mars Early
+0.000000
+has early
+0.000000
+long early
+0.000000
+been early
+0.000000
+the early
+0.000000
+subject early
+0.000000
+of early
+0.000000
+human early
+0.000000
+interest. early
+0.000000
+Early early
+1.000000
+telescopic early
+1.000000
+observations early
+1.000000
+revealed early
+1.000000
+color early
+1.000000
+changes early
+1.000000
+on early
+1.000000
+the early
+1.000000
+surface early
+1.000000
+that early
+1.000000
+were early
+1.000000
+attributed early
+1.000000
+to early
+1.000000
+seasonal early
+1.000000
+vegetation early
+1.000000
+and early
+1.000000
+apparent early
+1.000000
+linear early
+1.000000
+features early
+1.000000
+were early
+1.000000
+ascribed early
+1.000000
+to early
+1.000000
+intelligent early
+1.000000
+design. early
+1.000000
+Mars interest.
+0.000000
+has interest
+0.000000
+long interest
+0.000000
+been interest
+0.000000
+the interest
+0.000000
+subject interest
+0.000000
+of interest
+0.000000
+human interest
+0.000000
+interest. interest
+1.000000
+Early interest
+1.000000
+telescopic interest
+1.000000
+observations interest
+1.000000
+revealed interest
+1.000000
+color interest
+1.000000
+changes interest
+1.000000
+on interest
+1.000000
+the interest
+1.000000
+surface interest
+1.000000
+that interest
+1.000000
+were interest
+1.000000
+attributed interest
+1.000000
+to interest
+1.000000
+seasonal interest
+1.000000
+vegetation interest
+1.000000
+and interest
+1.000000
+apparent interest
+1.000000
+linear interest
+1.000000
+features interest
+1.000000
+were interest
+1.000000
+ascribed interest
+1.000000
+to interest
+1.000000
+intelligent interest
+1.000000
+design. interest
+1.000000
+Mars human
+0.000000
+has human
+0.000000
+long human
+0.000000
+been human
+0.000000
+the human
+0.000000
+subject human
+0.000000
+of human
+0.000000
+human human
+1.000000
+interest. human
+1.000000
+Early human
+1.000000
+telescopic human
+1.000000
+observations human
+1.000000
+revealed human
+1.000000
+color human
+1.000000
+changes human
+1.000000
+on human
+1.000000
+the human
+1.000000
+surface human
+1.000000
+that human
+1.000000
+were human
+1.000000
+attributed human
+1.000000
+to human
+1.000000
+seasonal human
+1.000000
+vegetation human
+1.000000
+and human
+1.000000
+apparent human
+1.000000
+linear human
+1.000000
+features human
+1.000000
+were human
+1.000000
+ascribed human
+1.000000
+to human
+1.000000
+intelligent human
+1.000000
+design. human
+1.000000
+Mars of
+0.000000
+has of
+0.000000
+long of
+0.000000
+been of
+0.000000
+the of
+0.000000
+subject of
+0.000000
+of of
+1.000000
+human of
+1.000000
+interest. of
+1.000000
+Early of
+1.000000
+telescopic of
+1.000000
+observations of
+1.000000
+revealed of
+1.000000
+color of
+1.000000
+changes of
+1.000000
+on of
+1.000000
+the of
+1.000000
+surface of
+1.000000
+that of
+1.000000
+were of
+1.000000
+attributed of
+1.000000
+to of
+1.000000
+seasonal of
+1.000000
+vegetation of
+1.000000
+and of
+1.000000
+apparent of
+1.000000
+linear of
+1.000000
+features of
+1.000000
+were of
+1.000000
+ascribed of
+1.000000
+to of
+1.000000
+intelligent of
+1.000000
+design. of
+1.000000
+Mars subject
+0.000000
+has subject
+0.000000
+long subject
+0.000000
+been subject
+0.000000
+the subject
+0.000000
+subject subject
+1.000000
+of subject
+1.000000
+human subject
+1.000000
+interest. subject
+1.000000
+Early subject
+1.000000
+telescopic subject
+1.000000
+observations subject
+1.000000
+revealed subject
+1.000000
+color subject
+1.000000
+changes subject
+1.000000
+on subject
+1.000000
+the subject
+1.000000
+surface subject
+1.000000
+that subject
+1.000000
+were subject
+1.000000
+attributed subject
+1.000000
+to subject
+1.000000
+seasonal subject
+1.000000
+vegetation subject
+1.000000
+and subject
+1.000000
+apparent subject
+1.000000
+linear subject
+1.000000
+features subject
+1.000000
+were subject
+1.000000
+ascribed subject
+1.000000
+to subject
+1.000000
+intelligent subject
+1.000000
+design. subject
+1.000000
+Mars the
+0.000000
+has the
+0.000000
+long the
+0.000000
+been the
+0.000000
+the the
+1.000000
+subject the
+1.000000
+of the
+1.000000
+human the
+1.000000
+interest. the
+1.000000
+Early the
+1.000000
+telescopic the
+1.000000
+observations the
+1.000000
+revealed the
+1.000000
+color the
+1.000000
+changes the
+1.000000
+on the
+1.000000
+the the
+2.000000
+surface the
+2.000000
+that the
+2.000000
+were the
+2.000000
+attributed the
+2.000000
+to the
+2.000000
+seasonal the
+2.000000
+vegetation the
+2.000000
+and the
+2.000000
+apparent the
+2.000000
+linear the
+2.000000
+features the
+2.000000
+were the
+2.000000
+ascribed the
+2.000000
+to the
+2.000000
+intelligent the
+2.000000
+design. the
+2.000000
+Mars been
+0.000000
+has been
+0.000000
+long been
+0.000000
+been been
+1.000000
+the been
+1.000000
+subject been
+1.000000
+of been
+1.000000
+human been
+1.000000
+interest. been
+1.000000
+Early been
+1.000000
+telescopic been
+1.000000
+observations been
+1.000000
+revealed been
+1.000000
+color been
+1.000000
+changes been
+1.000000
+on been
+1.000000
+the been
+1.000000
+surface been
+1.000000
+that been
+1.000000
+were been
+1.000000
+attributed been
+1.000000
+to been
+1.000000
+seasonal been
+1.000000
+vegetation been
+1.000000
+and been
+1.000000
+apparent been
+1.000000
+linear been
+1.000000
+features been
+1.000000
+were been
+1.000000
+ascribed been
+1.000000
+to been
+1.000000
+intelligent been
+1.000000
+design. been
+1.000000
+Mars long
+0.000000
+has long
+0.000000
+long long
+1.000000
+been long
+1.000000
+the long
+1.000000
+subject long
+1.000000
+of long
+1.000000
+human long
+1.000000
+interest. long
+1.000000
+Early long
+1.000000
+telescopic long
+1.000000
+observations long
+1.000000
+revealed long
+1.000000
+color long
+1.000000
+changes long
+1.000000
+on long
+1.000000
+the long
+1.000000
+surface long
+1.000000
+that long
+1.000000
+were long
+1.000000
+attributed long
+1.000000
+to long
+1.000000
+seasonal long
+1.000000
+vegetation long
+1.000000
+and long
+1.000000
+apparent long
+1.000000
+linear long
+1.000000
+features long
+1.000000
+were long
+1.000000
+ascribed long
+1.000000
+to long
+1.000000
+intelligent long
+1.000000
+design. long
+1.000000
+Mars has
+0.000000
+has has
+1.000000
+long has
+1.000000
+been has
+1.000000
+the has
+1.000000
+subject has
+1.000000
+of has
+1.000000
+human has
+1.000000
+interest. has
+1.000000
+Early has
+1.000000
+telescopic has
+1.000000
+observations has
+1.000000
+revealed has
+1.000000
+color has
+1.000000
+changes has
+1.000000
+on has
+1.000000
+the has
+1.000000
+surface has
+1.000000
+that has
+1.000000
+were has
+1.000000
+attributed has
+1.000000
+to has
+1.000000
+seasonal has
+1.000000
+vegetation has
+1.000000
+and has
+1.000000
+apparent has
+1.000000
+linear has
+1.000000
+features has
+1.000000
+were has
+1.000000
+ascribed has
+1.000000
+to has
+1.000000
+intelligent has
+1.000000
+design. has
+1.000000
+Mars Mars
+1.000000
+has mars
+1.000000
+long mars
+1.000000
+been mars
+1.000000
+the mars
+1.000000
+subject mars
+1.000000
+of mars
+1.000000
+human mars
+1.000000
+interest. mars
+1.000000
+Early mars
+1.000000
+telescopic mars
+1.000000
+observations mars
+1.000000
+revealed mars
+1.000000
+color mars
+1.000000
+changes mars
+1.000000
+on mars
+1.000000
+the mars
+1.000000
+surface mars
+1.000000
+that mars
+1.000000
+were mars
+1.000000
+attributed mars
+1.000000
+to mars
+1.000000
+seasonal mars
+1.000000
+vegetation mars
+1.000000
+and mars
+1.000000
+apparent mars
+1.000000
+linear mars
+1.000000
+features mars
+1.000000
+were mars
+1.000000
+ascribed mars
+1.000000
+to mars
+1.000000
+intelligent mars
+1.000000
+design. mars
+1.000000
+Mars promise
+0.000000
+moon promise
+0.000000
+weather promise
+0.000000
+robotics promise
+0.000000
+landing promise
+0.000000
+red promise
+0.000000
+planet promise
+0.000000
+volcano promise
+0.000000
+moon promise
+0.000000
+weather promise
+0.000000
+sun promise
+0.000000
+mars promise
+0.000000
+man promise
+0.000000
+promise promise
+1.000000
+Mars man
+0.000000
+moon man
+0.000000
+weather man
+0.000000
+robotics man
+0.000000
+landing man
+0.000000
+red man
+0.000000
+planet man
+0.000000
+volcano man
+0.000000
+moon man
+0.000000
+weather man
+0.000000
+sun man
+0.000000
+mars man
+0.000000
+man man
+1.000000
+promise man
+1.000000
+Mars mars
+1.000000
+moon mars
+1.000000
+weather mars
+1.000000
+robotics mars
+1.000000
+landing mars
+1.000000
+red mars
+1.000000
+planet mars
+1.000000
+volcano mars
+1.000000
+moon mars
+1.000000
+weather mars
+1.000000
+sun mars
+1.000000
+mars mars
+2.000000
+man mars
+2.000000
+promise mars
+2.000000
+Mars sun
+0.000000
+moon sun
+0.000000
+weather sun
+0.000000
+robotics sun
+0.000000
+landing sun
+0.000000
+red sun
+0.000000
+planet sun
+0.000000
+volcano sun
+0.000000
+moon sun
+0.000000
+weather sun
+0.000000
+sun sun
+1.000000
+mars sun
+1.000000
+man sun
+1.000000
+promise sun
+1.000000
+Mars weather
+0.000000
+moon weather
+0.000000
+weather weather
+1.000000
+robotics weather
+1.000000
+landing weather
+1.000000
+red weather
+1.000000
+planet weather
+1.000000
+volcano weather
+1.000000
+moon weather
+1.000000
+weather weather
+2.000000
+sun weather
+2.000000
+mars weather
+2.000000
+man weather
+2.000000
+promise weather
+2.000000
+Mars moon
+0.000000
+moon moon
+1.000000
+weather moon
+1.000000
+robotics moon
+1.000000
+landing moon
+1.000000
+red moon
+1.000000
+planet moon
+1.000000
+volcano moon
+1.000000
+moon moon
+2.000000
+weather moon
+2.000000
+sun moon
+2.000000
+mars moon
+2.000000
+man moon
+2.000000
+promise moon
+2.000000
+Mars volcano
+0.000000
+moon volcano
+0.000000
+weather volcano
+0.000000
+robotics volcano
+0.000000
+landing volcano
+0.000000
+red volcano
+0.000000
+planet volcano
+0.000000
+volcano volcano
+1.000000
+moon volcano
+1.000000
+weather volcano
+1.000000
+sun volcano
+1.000000
+mars volcano
+1.000000
+man volcano
+1.000000
+promise volcano
+1.000000
+Mars planet
+0.000000
+moon planet
+0.000000
+weather planet
+0.000000
+robotics planet
+0.000000
+landing planet
+0.000000
+red planet
+0.000000
+planet planet
+1.000000
+volcano planet
+1.000000
+moon planet
+1.000000
+weather planet
+1.000000
+sun planet
+1.000000
+mars planet
+1.000000
+man planet
+1.000000
+promise planet
+1.000000
+Mars red
+0.000000
+moon red
+0.000000
+weather red
+0.000000
+robotics red
+0.000000
+landing red
+0.000000
+red red
+1.000000
+planet red
+1.000000
+volcano red
+1.000000
+moon red
+1.000000
+weather red
+1.000000
+sun red
+1.000000
+mars red
+1.000000
+man red
+1.000000
+promise red
+1.000000
+Mars landing
+0.000000
+moon landing
+0.000000
+weather landing
+0.000000
+robotics landing
+0.000000
+landing landing
+1.000000
+red landing
+1.000000
+planet landing
+1.000000
+volcano landing
+1.000000
+moon landing
+1.000000
+weather landing
+1.000000
+sun landing
+1.000000
+mars landing
+1.000000
+man landing
+1.000000
+promise landing
+1.000000
+Mars robotics
+0.000000
+moon robotics
+0.000000
+weather robotics
+0.000000
+robotics robotics
+1.000000
+landing robotics
+1.000000
+red robotics
+1.000000
+planet robotics
+1.000000
+volcano robotics
+1.000000
+moon robotics
+1.000000
+weather robotics
+1.000000
+sun robotics
+1.000000
+mars robotics
+1.000000
+man robotics
+1.000000
+promise robotics
+1.000000
+Mars weather
+0.000000
+moon weather
+0.000000
+weather weather
+1.000000
+robotics weather
+1.000000
+landing weather
+1.000000
+red weather
+1.000000
+planet weather
+1.000000
+volcano weather
+1.000000
+moon weather
+1.000000
+weather weather
+2.000000
+sun weather
+2.000000
+mars weather
+2.000000
+man weather
+2.000000
+promise weather
+2.000000
+Mars moon
+0.000000
+moon moon
+1.000000
+weather moon
+1.000000
+robotics moon
+1.000000
+landing moon
+1.000000
+red moon
+1.000000
+planet moon
+1.000000
+volcano moon
+1.000000
+moon moon
+2.000000
+weather moon
+2.000000
+sun moon
+2.000000
+mars moon
+2.000000
+man moon
+2.000000
+promise moon
+2.000000
+Mars Mars
+1.000000
+moon mars
+1.000000
+weather mars
+1.000000
+robotics mars
+1.000000
+landing mars
+1.000000
+red mars
+1.000000
+planet mars
+1.000000
+volcano mars
+1.000000
+moon mars
+1.000000
+weather mars
+1.000000
+sun mars
+1.000000
+mars mars
+2.000000
+man mars
+2.000000
+promise mars
+2.000000
+experiments planets
+0.000000
+NASA planets
+0.000000
+EU planets
+0.000000
+Japan planets
+0.000000
+robot planets
+0.000000
+planet planets
+0.000000
+volcano planets
+0.000000
+moon planets
+0.000000
+weather planets
+0.000000
+mars planets
+0.000000
+jupiter planets
+0.000000
+moon planets
+0.000000
+planets planets
+1.000000
+experiments moon
+0.000000
+NASA moon
+0.000000
+EU moon
+0.000000
+Japan moon
+0.000000
+robot moon
+0.000000
+planet moon
+0.000000
+volcano moon
+0.000000
+moon moon
+1.000000
+weather moon
+1.000000
+mars moon
+1.000000
+jupiter moon
+1.000000
+moon moon
+2.000000
+planets moon
+2.000000
+experiments jupiter
+0.000000
+NASA jupiter
+0.000000
+EU jupiter
+0.000000
+Japan jupiter
+0.000000
+robot jupiter
+0.000000
+planet jupiter
+0.000000
+volcano jupiter
+0.000000
+moon jupiter
+0.000000
+weather jupiter
+0.000000
+mars jupiter
+0.000000
+jupiter jupiter
+1.000000
+moon jupiter
+1.000000
+planets jupiter
+1.000000
+experiments mars
+0.000000
+NASA mars
+0.000000
+EU mars
+0.000000
+Japan mars
+0.000000
+robot mars
+0.000000
+planet mars
+0.000000
+volcano mars
+0.000000
+moon mars
+0.000000
+weather mars
+0.000000
+mars mars
+1.000000
+jupiter mars
+1.000000
+moon mars
+1.000000
+planets mars
+1.000000
+experiments weather
+0.000000
+NASA weather
+0.000000
+EU weather
+0.000000
+Japan weather
+0.000000
+robot weather
+0.000000
+planet weather
+0.000000
+volcano weather
+0.000000
+moon weather
+0.000000
+weather weather
+1.000000
+mars weather
+1.000000
+jupiter weather
+1.000000
+moon weather
+1.000000
+planets weather
+1.000000
+experiments moon
+0.000000
+NASA moon
+0.000000
+EU moon
+0.000000
+Japan moon
+0.000000
+robot moon
+0.000000
+planet moon
+0.000000
+volcano moon
+0.000000
+moon moon
+1.000000
+weather moon
+1.000000
+mars moon
+1.000000
+jupiter moon
+1.000000
+moon moon
+2.000000
+planets moon
+2.000000
+experiments volcano
+0.000000
+NASA volcano
+0.000000
+EU volcano
+0.000000
+Japan volcano
+0.000000
+robot volcano
+0.000000
+planet volcano
+0.000000
+volcano volcano
+1.000000
+moon volcano
+1.000000
+weather volcano
+1.000000
+mars volcano
+1.000000
+jupiter volcano
+1.000000
+moon volcano
+1.000000
+planets volcano
+1.000000
+experiments planet
+0.000000
+NASA planet
+0.000000
+EU planet
+0.000000
+Japan planet
+0.000000
+robot planet
+0.000000
+planet planet
+1.000000
+volcano planet
+1.000000
+moon planet
+1.000000
+weather planet
+1.000000
+mars planet
+1.000000
+jupiter planet
+1.000000
+moon planet
+1.000000
+planets planet
+1.000000
+experiments robot
+0.000000
+NASA robot
+0.000000
+EU robot
+0.000000
+Japan robot
+0.000000
+robot robot
+1.000000
+planet robot
+1.000000
+volcano robot
+1.000000
+moon robot
+1.000000
+weather robot
+1.000000
+mars robot
+1.000000
+jupiter robot
+1.000000
+moon robot
+1.000000
+planets robot
+1.000000
+experiments Japan
+0.000000
+NASA japan
+0.000000
+EU japan
+0.000000
+Japan japan
+1.000000
+robot japan
+1.000000
+planet japan
+1.000000
+volcano japan
+1.000000
+moon japan
+1.000000
+weather japan
+1.000000
+mars japan
+1.000000
+jupiter japan
+1.000000
+moon japan
+1.000000
+planets japan
+1.000000
+experiments EU
+0.000000
+NASA eu
+0.000000
+EU eu
+1.000000
+Japan eu
+1.000000
+robot eu
+1.000000
+planet eu
+1.000000
+volcano eu
+1.000000
+moon eu
+1.000000
+weather eu
+1.000000
+mars eu
+1.000000
+jupiter eu
+1.000000
+moon eu
+1.000000
+planets eu
+1.000000
+experiments NASA
+0.000000
+NASA nasa
+1.000000
+EU nasa
+1.000000
+Japan nasa
+1.000000
+robot nasa
+1.000000
+planet nasa
+1.000000
+volcano nasa
+1.000000
+moon nasa
+1.000000
+weather nasa
+1.000000
+mars nasa
+1.000000
+jupiter nasa
+1.000000
+moon nasa
+1.000000
+planets nasa
+1.000000
+experiments experiments
+1.000000
+NASA experiments
+1.000000
+EU experiments
+1.000000
+Japan experiments
+1.000000
+robot experiments
+1.000000
+planet experiments
+1.000000
+volcano experiments
+1.000000
+moon experiments
+1.000000
+weather experiments
+1.000000
+mars experiments
+1.000000
+jupiter experiments
+1.000000
+moon experiments
+1.000000
+planets experiments
+1.000000

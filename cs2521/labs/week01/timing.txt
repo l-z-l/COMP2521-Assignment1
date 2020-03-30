@@ -1,0 +1,43 @@
+Input size      Initial Order       Has Duplicates      Number of runs      Avg Time for useIntlist/s   Avg Time for sort/s
+5000                random                 Yes                  5                      0.090                   0.0064
+5000                sorted                 Yes                  5                      0.014                   0.0026
+5000                reverse                Yes                  5                      0.016                   0.0048
+5000                random                 No                   5                      0.092                   0.0078
+5000                sorted                 No                   5                      0.016                   0.0032
+5000                reverse                No                   5                      0.016                   0.0030
+
+10000               random                 Yes                  5                      0.34                    0.012  
+10000               sorted                 Yes                  5                      0.018                   0.0064
+10000               reverse                Yes                  5                      0.017                   0.0086
+10000               random                 No                   5                      0.52                    0.008
+10000               sorted                 No                   5                      0.031                   0.0032
+10000               reverse                No                   5                      0.029                   0.004
+
+50000               random                 Yes                  5                      15                      0.060
+50000               sorted                 Yes                  5                      0.10                    0.028
+50000               reverse                Yes                  5                      0.11                    0.0030
+50000               random                 No                   5                      15                      0.048
+50000               sorted                 No                   5                      0.095                   0.018
+50000               reverse                No                   5                      0.12                    0.028
+
+100000              random                 Yes                  5                      64                      0.11
+100000              sorted                 Yes                  5                      0.21                    0.051
+100000              reverse                Yes                  5                      0.16                    0.059
+100000              random                 No                   5                      64                      0.093
+100000              sorted                 No                   5                      0.173                   0.046
+100000              reverse                No                   5                      0.176                   0.050
+
+
+Analysis:
+I realize in the chart that everytime the list is random my code has a surge in time to order it,
+I am guessing because I used a for loop to find the place the number when it is in the middle that's why is has 
+such a high increase in time. Through some Analysis in the worst random case my code is O(n) because there is only 1 loop,
+however from the data it seems like O(n^2) because the computation is so slow I don't have time to do larger number analysis.
+For non-random case when the number is sorted my code is O(1) because there is no loop involved in that case.
+
+As for the linux in-built sorting algorithm I looked it up it is O(n*logn) generally that's way there's not much of a high increase.
+
+And clearly the larger the number the longer it will take.
+
+Also I noticed there is no significance difference between ordered and reverse one in the time of arranging them.
+
