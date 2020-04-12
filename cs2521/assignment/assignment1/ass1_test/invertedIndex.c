@@ -38,7 +38,7 @@ InvertedIndexBST generateInvertedIndex(char *collectionFilename) {
         double word_count = fileWordCount(fp_2);
         char word_name[BUFSIZ];
         while (fscanf(fp_1, "%s", word_name) != EOF) {
-            printf("filename: %s\n", file_name);
+            // printf("filename: %s\n", file_name);
             fp_2 = fopen(file_name, "r");
             double tf = calculateTf(word_name, word_count, fp_2);
             root = insertNewIndexNode(root, normaliseWord(word_name), file_name, tf);
@@ -77,5 +77,3 @@ TfIdfList calculateTfIdf(InvertedIndexBST tree, char *searchWord, int D) {
         return start;
     }
 }
-
-
